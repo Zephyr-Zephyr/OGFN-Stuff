@@ -1,4 +1,4 @@
-# OGFN Stuff
+# Klover OGFN
 
 This project is divided into different categories to keep content and components better organized.
 
