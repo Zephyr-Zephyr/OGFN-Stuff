@@ -37,9 +37,6 @@ This project is divided into different categories to keep content and components
 ## Discord Servers
 
 
-
-# credits to
-
 - Atlas: [https://discord.gg/rNKVhwQuQ]
 - FortHub: [https://discord.gg/FhgghpESQ]
 - OGFN Hub (By Benzi): [https://discord.gg/Gtf8TWej3]
